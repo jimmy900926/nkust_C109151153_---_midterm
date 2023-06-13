@@ -192,7 +192,7 @@ class screen3 extends StatelessWidget {
                       Text('1. 學好英文'),
                       Text('2. 組合語言'),
                       Text('3. 考取證照'),
-                      Text('4. 人際關係'),
+                      Text('4. 酷喔'),
                     ],
                   ),
                 ),
